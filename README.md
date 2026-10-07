@@ -49,22 +49,22 @@ Designing storefronts that remain clear and usable across desktop and mobile scr
 ### 1. Luxury/Premium Shopify Store Redesign
 A premium storefront redesign focused on homepage structure, product presentation, collection layouts, navigation, mega-menu organization, and visual consistency.
 
-[View project →]((https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107227842929274880))
+[View project →](https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107227842929274880)
 
 ### 2. Shopify 2.0 Store Design
 A Shopify 2.0-focused storefront concept covering modern layouts, reusable sections, responsive design, and a polished shopping experience.
 
-[View project →]((https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107239841678450688))
+[View project →](https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107239841678450688)
 
 ### 3. Product Page Optimization
 A product-page design project focused on improving product presentation, information hierarchy, usability, and purchase-focused layout.
 
-[View project →]((https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107233891808829440))
+[View project →](https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107233891808829440)
 
 ### 4. Mobile Storefront Optimization
 A responsive design project focused on making Shopify storefront sections easier to use on smaller screens.
 
-[View project →]((https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107215146291130368))
+[View project →](https://www.upwork.com/freelancers/~017ca25019e3deff8d?p=2107215146291130368)
 
 ---
 
@@ -115,3 +115,4 @@ For project discussions, you can also contact me through my Upwork profile.
 ---
 
 **Last updated:** October 2026
+
